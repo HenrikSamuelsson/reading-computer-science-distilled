@@ -7,7 +7,10 @@ Compilation of notes taken while reading the book Computer Science Distilled, by
 | Term            | Definition                                                 |
 | ---             | ---                                                        |
 | flowchart       | Picture visualizing all possible steps in a process        |
-| pseudocode      | Code in a simplified format that is human readable only    |
+| pseudocode      | Simplified code format that is human readable only         |
+| model           | An abstract representation of a concrete system            |
+| logic           | The study of correct reasoning                             |
+| logic variable  | Variable that takes on one of two values, true or false    |
 
 *Table of terms introduced in chapter 1: Basics.*
 
